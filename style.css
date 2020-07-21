@@ -1,0 +1,26 @@
+.circulo{
+  width: 100px;
+  height: 100px;
+  background-color:#FFFFFF;
+  border-radius: 100%
+}
+
+.contenedor{
+            margin:auto;
+            background-color: #FFFFFF;
+            padding: 5px;
+            width: 150px;
+            border-radius: 150px;   
+        }
+.imagen{
+            margin:auto;
+            -webkit-border-radius: 50px;
+            -moz-border-radius: 50px;
+            border-radius: 150px;   
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&family=Open+Sans&family=Roboto:wght@300&display=swap');
+
+p {
+  font-family: 'Lexend Zetta', sans-serif;
+}
